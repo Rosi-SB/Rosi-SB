@@ -4,10 +4,19 @@ Sou desenvolvedora **Front-end** apaixonada por transformar ideias em interfaces
 
 ---
 
+### 🎓 Formação
+- 📘 **Tecnólogo em Tecnologia da Informação** — UNIVESP
+- 💻 **Técnico em Informática para Internet** — SENAC
+
+---
+
 ### 🌱 Atualmente estudando:
 - JavaScript moderno (ES6+)
 - HTML5 e CSS3 com foco em **responsividade** (Flexbox e Grid)
 - Git e GitHub para controle de versão e colaboração
+- - Prática com **React**, **Next.js**, **NestJS** e **Prisma**
+- **Integrações com APIs**, bancos de dados e automações com planilhas
+- **Design de interfaces acessíveis e funcionais**
 
 ---
 
