@@ -46,7 +46,8 @@ Sou desenvolvedora **Front-end** apaixonada por transformar ideias em interfaces
 ---
 
 ### 📫 Como me encontrar:
-- [LinkedIn](www.linkedin.com/in/rosicleidi-da-silva-barbosa-79a131114)
+- [LinkedIn](https://www.linkedin.com/in/rosicleidi-da-silva-barbosa-79a131114)
+
 
 ---
 
